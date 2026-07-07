@@ -1,0 +1,4 @@
+{"log_id": "L001", "event": "click", "duration_ms": 120}
+{"log_id": "L002", "event": "scroll", "duration_ms": null}
+{"log_id": "L003", "event": "click", "duration_ms": 85}
+{"log_id": "L004", "event": "submit", "duration_ms": 3200}
